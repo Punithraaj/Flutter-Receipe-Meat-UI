@@ -1,4 +1,4 @@
-# flutter_recipe_meat_ui
+# Flutter Recipe Meat Ui
 
 A new Flutter project.
 
